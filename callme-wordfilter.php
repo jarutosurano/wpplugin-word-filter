@@ -1,14 +1,15 @@
 <?php
+
 /*
  * Plugin Name: Word Filter
  * Plugin URI: https://jarutosurano.io
- * Description: Easily count words and characters in your posts and pages.
+ * Description: A WordPress plugin that helps you filter unwanted words or phrases from your site's content with customizable replacement options.
  * Version: 1.0.0
  * Author: jarutosurano
  * Author URI: https://jarutosurano.io
- * Text Domain: cwfdomain
- * Domain Path: /languages
+ * Text Domain: word-filter
  */
+
 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
